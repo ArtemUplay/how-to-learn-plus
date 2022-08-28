@@ -1,0 +1,15 @@
+.footer__column-link {
+	color: #fff;
+	text-decoration: none;
+	line-height: 18px;
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0px 0px 10px 0px;
+	display: flex;
+	align-items: center;
+	/* justify-content: space-between; */
+}
+
+.footer__column-link:last-child {
+	margin: 0;
+}

@@ -1,0 +1,6 @@
+.resourсes__link {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-basis: 25%;
+}
